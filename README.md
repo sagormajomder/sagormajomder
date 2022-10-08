@@ -1,6 +1,6 @@
 ## Howdy 👋, I am Sagor Majomder
 
-#### 🔥 I'm a passionate Web Developer, Programmer and learning new things everyday
+#### 🔥passionate Web Developer, Programmer and learning new things everyday
 
 ## 🚀 About Me
 
