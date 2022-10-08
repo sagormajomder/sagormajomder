@@ -14,6 +14,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 -  CSS3/SASS/Bootstrap
 -  JavaScript
 -  Photoshop/Figma
+-  Wordpress
+-  C/C++
+-  Java
+-  Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&layout=compact)
 
