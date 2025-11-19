@@ -31,25 +31,25 @@
 
 - 🔭 Currently building: small-to-medium MERN apps with authentication, CRUD, and REST APIs
 - 🌱 Learning next: TypeScript, Next.js, Redux Toolkit, React Query, and Docker fundamentals to deepen my full-stack development skills.
-- 🧰 Favorite tools: VS Code, Git/GitHub, Postman, npm, Vite
 - 💬 Ask me about: CSS, TailwindCSS, Full-Stack ( React, Node, Express, MongoDB), Responsive design and REST APIs
+- 🧰 Favorite tools: VS Code, Git/GitHub, Postman, npm, Vite
 - 🤝 Open to: Collaborating on beginner‑friendly MERN projects and UI polish
 - 🎯 2025 goals:
   - Ship 3+ full‑stack MERN projects
   - Write better tests (Jest, React Testing Library)
-  - Deploy reliably (Vercel/Netlify)
+  - Deploy reliably (Vercel/Netlify/Firebase)
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-| Skills Overview           | Technologies                                                                                                                  |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**             | [![Languages](https://skillicons.dev/icons?i=javascript)](https://github.com/sagormajomder)                                   |
-| **Frontend Technologies** | [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwindcss,react,redux)](https://github.com/sagormajomder) |
-| **Back-End Development**  | [![Back-End Development](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/sagormajomder)                    |
-| **Database**              | [![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/sagormajomder)                                       |
-| **Tools & Platforms**     | [![Database](https://skillicons.dev/icons?i=mongodb)](https://github.com/sagormajomder)                                       |
-
-<!--- statistics --->
+| Skills Overview           | Technologies                                                                                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**             | [![Languages](https://go-skill-icons.vercel.app/api/icons?i=js&titles=true)](https://github.com/sagormajomder)                                                           |
+| **Frontend Technologies** | [![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,sass,react,redux,reactquery&titles=true)](https://github.com/sagormajomder) |
+| **Back-End Development**  | [![Back-End Development](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs&titles=true)](https://github.com/sagormajomder)                                  |
+| **Database**              | [![Database](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)](https://github.com/sagormajomder)                                                       |
+| **Deployment Platform**   | [![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase&titles=true)](https://github.com/sagormajomder)                            |
+| **Design & Graphics:**    | [![Design & Graphics:](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps&titles=true)](https://github.com/sagormajomder)                                      |
+| **Tools & Platforms**     | [![Tools & Platforms](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,notion,git,github,vscode,jwt,postman,&titles=true)](https://github.com/sagormajomder)  |
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
