@@ -53,9 +53,10 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
+<!-- ### GitHub Contributions: -->
 
-![Snake Grid](https://github.com/sagormajomder/contribution-snake/blob/output/grid.svg)
+<!-- ![Snake Grid](https://github.com/sagormajomder/contribution-snake/blob/output/grid.svg) -->
+<!-- https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> -->
 
 ### GitHub Statistics:
 
