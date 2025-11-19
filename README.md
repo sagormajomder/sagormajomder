@@ -1,5 +1,4 @@
 <!-- Profile view -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagormajomder&label=Profile%20views&color=0e75b6&style=flat" alt="sagormajomder" /> </p> -->
 
 ![](https://komarev.com/ghpvc/?username=sagormajomder&style=for-the-badge)
 
@@ -30,10 +29,12 @@
 ## 💫 About me
 
 - 🔭 Currently building: small-to-medium MERN apps with authentication, CRUD, and REST APIs
-- 🌱 Learning next: TypeScript, Next.js, Redux Toolkit, React Query, and Docker fundamentals to deepen my full-stack development skills.
+- 🌱 Learning next: TypeScript, Next.js, Redux Toolkit, React Query, and Docker basics
 - 💬 Ask me about: CSS, TailwindCSS, Full-Stack ( React, Node, Express, MongoDB), Responsive design and REST APIs
 - 🧰 Favorite tools: VS Code, Git/GitHub, Postman, npm, Vite
 - 🤝 Open to: Collaborating on beginner‑friendly MERN projects and UI polish
+- 📫 Feel free to reach me out on **[Email](mailto:sagormajomder@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/sagormajomder/)**
+  - Or open a discussion/issue on a repo — I’m happy to connect!
 - 🎯 2025 goals:
   - Ship 3+ full‑stack MERN projects
   - Write better tests (Jest, React Testing Library)
@@ -74,12 +75,6 @@
     </td>
   </tr>
 </table>
-
-## How to reach me
-
-- LinkedIn: https://www.linkedin.com/in/sagormajomder/
-- Email: sagormajomder@gmail.com
-- Or open a discussion/issue on a repo — I’m happy to connect!
 
 <div align="center">
 <h3>💻 Debugging Doubts with Words</h3>
