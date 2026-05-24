@@ -80,7 +80,7 @@
   </tr>
 </table> -->
 
-<table>
+<table border="0">
 <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
@@ -96,7 +96,7 @@
        <img alt="Sagor Majomder Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagormajomder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
     </td>
     <td>
-      <img alt="Sagor Majomder Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+       <img alt="Sagor Majomder Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
     </td>
   </tr>
 </table>
