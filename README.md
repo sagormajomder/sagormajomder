@@ -64,36 +64,41 @@
 
 ### GitHub Statistics:
 
-<!-- <table>
-  <tr>
-    <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagormajomder&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-  <tr>
+<table border="0">
+<tr>
     <td colspan="2" align="center">
-      <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=sagormajomder&theme=onedark&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
     </td>
   </tr>
-</table> -->
+<tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagormajomder&theme=radical" alt="Sagor Majomder GitHub Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <img alt="Sagor Majomder Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagormajomder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+    </td>
+    <td>
+       <img alt="Sagor Majomder Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
-  
+
 </p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagormajomder&theme=radical" alt="Sagor Majomder Github summary"/>
 </p>
 
-<p> 
+<p>
     <img alt="Sagor Majomder Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagormajomder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   <img alt="Sagor Majomder Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   <br/>
-</p>
+</p> -->
 
 <div align="center">
 <h3>💻 Debugging Doubts with Words</h3>
