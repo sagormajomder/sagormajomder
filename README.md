@@ -64,7 +64,7 @@
 
 ### GitHub Statistics:
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagormajomder&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -76,6 +76,27 @@
   <tr>
     <td colspan="2" align="center">
       <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=sagormajomder&theme=onedark&hide_border=false" />
+    </td>
+  </tr>
+</table> -->
+
+<table>
+<tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
+    </td>
+  </tr>
+<tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagormajomder&theme=radical" alt="Sagor Majomder GitHub Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <img alt="Sagor Majomder Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagormajomder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+    </td>
+    <td>
+      <img alt="Sagor Majomder Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagormajomder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
     </td>
   </tr>
 </table>
