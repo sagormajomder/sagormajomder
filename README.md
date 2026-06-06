@@ -67,7 +67,8 @@
 <table border="0">
 <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/> -->
+      <img src="https://streak-stats.demolab.com/?user=sagormajomder&theme=radical&hide_border=false" alt="Sagor Majomder GitHub streak"/>
     </td>
   </tr>
 <tr>
