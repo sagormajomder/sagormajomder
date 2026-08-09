@@ -17,7 +17,6 @@
 
 <!-- Quick links -->
 <div align="center">
-  <!-- Replace with your actual links -->
   <a href="https://www.linkedin.com/in/sagormajomder/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://x.com/sagormajomder"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://hashnode.com/@sagormajomder"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
@@ -28,26 +27,26 @@
 
 ## 💫 About me
 
-- 🔭 Currently building: small-to-medium MERN apps with authentication, CRUD, and REST APIs
-- 🌱 Learning next: TypeScript, Next.js, Redux Toolkit, React Query, and Docker basics
+- 🔭 Currently building: MERN and Next.js apps
+- 🌱 Learning next: Docker basics,
 - 💬 Ask me about: CSS, TailwindCSS, Full-Stack ( React, Node, Express, MongoDB), Responsive design and REST APIs
 - 🧰 Favorite tools: VS Code, Git/GitHub, Postman, npm, Vite
-- 🤝 Open to: Collaborating on beginner‑friendly MERN projects and UI polish
+- 🤝 Open to: Collaborating on MERN projects and UI polish
 - 📫 Feel free to reach me out on **[Email](mailto:sagormajomder@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/sagormajomder/)**
   - Or open a discussion/issue on a repo — I’m happy to connect!
-- 🎯 2025 goals:
-  - Ship 3+ full‑stack MERN projects
-  - Write better tests (Jest, React Testing Library)
-  - Deploy reliably (Vercel/Netlify/Firebase)
+- 🎯 2026 goals:
+  - Ship industry standard full‑stack projects
+  - Write better tests
+  - Deploy reliably
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 | Skills Overview           | Technologies                                                                                                                                                             |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Languages**             | [![Languages](https://go-skill-icons.vercel.app/api/icons?i=js&titles=true)](https://github.com/sagormajomder)                                                           |
+| **Languages**             | [![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts&titles=true)](https://github.com/sagormajomder)                                                        |
 | **Frontend Technologies** | [![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,sass,react,redux,reactquery&titles=true)](https://github.com/sagormajomder) |
 | **Back-End Development**  | [![Back-End Development](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs&titles=true)](https://github.com/sagormajomder)                                  |
-| **Database**              | [![Database](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true)](https://github.com/sagormajomder)                                                       |
+| **Database**              | [![Database](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose&titles=true)](https://github.com/sagormajomder)                                              |
 | **Deployment Platform**   | [![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase&titles=true)](https://github.com/sagormajomder)                            |
 | **Design & Graphics:**    | [![Design & Graphics:](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps&titles=true)](https://github.com/sagormajomder)                                      |
 | **Tools & Platforms**     | [![Tools & Platforms](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,notion,git,github,vscode,jwt,postman,&titles=true)](https://github.com/sagormajomder)  |
