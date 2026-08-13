@@ -22,8 +22,6 @@
   <a href="https://hashnode.com/@sagormajomder"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
   <a href="mailto:sagormajomder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
-<!-- <a href="#"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a> -->
-<!-- <a href="https://app.daily.dev/nuradnan"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a> -->
 
 ## 💫 About me
 
@@ -40,16 +38,6 @@
   - Deploy reliably
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY EXPERTISE:</b>
-
-<!-- | Skills Overview           | Technologies                                                                                                                                                             |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Languages**             | [![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts&titles=true)](https://github.com/sagormajomder)                                                        |
-| **Frontend Technologies** | [![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,sass,react,redux,reactquery&titles=true)](https://github.com/sagormajomder) |
-| **Back-End Development**  | [![Back-End Development](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs&titles=true)](https://github.com/sagormajomder)                                  |
-| **Database**              | [![Database](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose&titles=true)](https://github.com/sagormajomder)                                              |
-| **Deployment Platform**   | [![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase&titles=true)](https://github.com/sagormajomder)                            |
-| **Design & Graphics:**    | [![Design & Graphics:](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps&titles=true)](https://github.com/sagormajomder)                                      |
-| **Tools & Platforms**     | [![Tools & Platforms](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,notion,git,github,vscode,jwt,postman,&titles=true)](https://github.com/sagormajomder)  | -->
 
 | Skills Overview             | Technologies                                                                        |
 | --------------------------- | ----------------------------------------------------------------------------------- |
@@ -77,7 +65,6 @@
 <table border="0">
 <tr>
     <td colspan="2" align="center">
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/> -->
       <img src="https://streak-stats.demolab.com/?user=sagormajomder&theme=radical&hide_border=false" alt="Sagor Majomder GitHub streak"/>
     </td>
   </tr>
@@ -95,11 +82,6 @@
     </td>
   </tr>
 </table>
-
-<!-- <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagormajomder&theme=radical&border=7F3FBF&background=0D1117" alt="Sagor Majomder GitHub streak"/>
-
-</p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagormajomder&theme=radical" alt="Sagor Majomder Github summary"/>
