@@ -39,9 +39,9 @@
   - Write better tests
   - Deploy reliably
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY EXPERTISE:</b>
 
-| Skills Overview           | Technologies                                                                                                                                                             |
+<!-- | Skills Overview           | Technologies                                                                                                                                                             |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Languages**             | [![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts&titles=true)](https://github.com/sagormajomder)                                                        |
 | **Frontend Technologies** | [![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,sass,react,redux,reactquery&titles=true)](https://github.com/sagormajomder) |
@@ -49,7 +49,18 @@
 | **Database**              | [![Database](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose&titles=true)](https://github.com/sagormajomder)                                              |
 | **Deployment Platform**   | [![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase&titles=true)](https://github.com/sagormajomder)                            |
 | **Design & Graphics:**    | [![Design & Graphics:](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,ps&titles=true)](https://github.com/sagormajomder)                                      |
-| **Tools & Platforms**     | [![Tools & Platforms](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,notion,git,github,vscode,jwt,postman,&titles=true)](https://github.com/sagormajomder)  |
+| **Tools & Platforms**     | [![Tools & Platforms](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,notion,git,github,vscode,jwt,postman,&titles=true)](https://github.com/sagormajomder)  | -->
+
+| Skills Overview             | Technologies                                                                        |
+| --------------------------- | ----------------------------------------------------------------------------------- |
+| **Languages**               | JavaScript, TypeScript                                                              |
+| **Front-End Development**   | React.js, Next.js, Tanstack Query, Redux, TailwindCSS, Shadcn Ui, Motion, Sass, CSS |
+| **Back-End Development**    | Node.js, Express.js                                                                 |
+| **Database**                | MongoDB, Mongoose                                                                   |
+| **Architectural Principle** | Module based MVC, Clean Code, Performance Optimization                              |
+| **Deployment Platform**     | Vercel, Netlify                                                                     |
+| **Design & Graphics:**      | Figma, Canva, Photoshop                                                             |
+| **Tools & Platforms**       | Linux, Windows, Notion, Git & Github, VSCode, Postman                               |
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
